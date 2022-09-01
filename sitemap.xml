@@ -11,15 +11,6 @@
   </url>
   
   <url>
-    <loc>https://offliners.github.io/2022/09/01/leetcode-ds-day1/</loc>
-    
-    <lastmod>2022-09-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://offliners.github.io/about/index.html</loc>
     
     <lastmod>2022-08-31</lastmod>
@@ -71,31 +62,10 @@
     <priority>0.2</priority>
   </url>
   
-  <url>
-    <loc>https://offliners.github.io/tags/Data-Structure/</loc>
-    <lastmod>2022-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://offliners.github.io/tags/LeetCode/</loc>
-    <lastmod>2022-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://offliners.github.io/categories/%E7%A0%94%E7%A9%B6%E6%89%80%E6%8E%A8%E7%94%84/</loc>
-    <lastmod>2022-09-01</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://offliners.github.io/categories/Leetcode-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B/</loc>
     <lastmod>2022-09-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
